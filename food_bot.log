@@ -1,0 +1,219 @@
+2024-10-25 13:51:11,879 - MainScript - INFO - Bot initialized successfully!
+2024-10-25 13:51:11,880 - MainScript - ERROR - Error in message processing loop: 'Client' object has no attribute 'direct_inbox'
+2024-10-25 13:51:11,880 - MainScript - INFO - Waiting 60 seconds before retrying...
+2024-10-25 13:52:11,880 - MainScript - ERROR - Error in message processing loop: 'Client' object has no attribute 'direct_inbox'
+2024-10-25 13:52:11,880 - MainScript - INFO - Waiting 60 seconds before retrying...
+2024-10-25 13:53:11,881 - MainScript - ERROR - Error in message processing loop: 'Client' object has no attribute 'direct_inbox'
+2024-10-25 13:53:11,881 - MainScript - INFO - Waiting 60 seconds before retrying...
+2024-10-25 13:58:27,299 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 13:58:38,538 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: URLError <urlopen error [Errno 11001] getaddrinfo failed>
+2024-10-25 13:58:43,539 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 13:58:43,560 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: URLError <urlopen error [Errno 11001] getaddrinfo failed>
+2024-10-25 13:58:48,561 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 13:58:48,583 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 13:58:48,583 - InstagramFoodBot - ERROR - Failed to initialize bot: URLError <urlopen error [Errno 11001] getaddrinfo failed>
+2024-10-25 13:58:48,583 - MainScript - ERROR - Failed to initialize bot: URLError <urlopen error [Errno 11001] getaddrinfo failed>
+2024-10-25 14:02:30,916 - MainScript - INFO - Attempting to initialize bot (attempt 1/3)
+2024-10-25 14:02:31,163 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:02:34,406 - instagram_private_api.errors - WARNING - Error parsing error response: Expecting value: line 1 column 1 (char 0)
+2024-10-25 14:02:34,406 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: Method Not Allowed
+2024-10-25 14:02:39,408 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:02:42,025 - instagram_private_api.errors - WARNING - Error parsing error response: Expecting value: line 1 column 1 (char 0)
+2024-10-25 14:02:42,025 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: Method Not Allowed
+2024-10-25 14:02:47,026 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:02:50,177 - instagram_private_api.errors - WARNING - Error parsing error response: Expecting value: line 1 column 1 (char 0)
+2024-10-25 14:02:50,178 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:02:50,178 - InstagramFoodBot - ERROR - Failed to initialize bot: Method Not Allowed
+2024-10-25 14:02:50,178 - MainScript - ERROR - Failed to initialize bot: Method Not Allowed
+2024-10-25 14:02:50,178 - MainScript - INFO - Retrying in 30 seconds...
+2024-10-25 14:03:20,179 - MainScript - INFO - Attempting to initialize bot (attempt 2/3)
+2024-10-25 14:03:20,438 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:03:24,035 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: checkpoint_challenge_required
+2024-10-25 14:03:29,036 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:03:31,046 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: checkpoint_challenge_required
+2024-10-25 14:03:36,048 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:03:37,835 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:03:37,835 - InstagramFoodBot - ERROR - Failed to initialize bot: checkpoint_challenge_required
+2024-10-25 14:03:37,836 - MainScript - ERROR - Failed to initialize bot: checkpoint_challenge_required
+2024-10-25 14:03:37,836 - MainScript - INFO - Retrying in 30 seconds...
+2024-10-25 14:08:12,665 - MainScript - INFO - Attempting to initialize bot (attempt 1/3)
+2024-10-25 14:08:12,666 - InstagramFoodBot - ERROR - Failed to initialize bot: 'InstagramFoodBot' object has no attribute 'connect_to_instagram'
+2024-10-25 14:08:12,666 - MainScript - ERROR - Failed to initialize bot: 'InstagramFoodBot' object has no attribute 'connect_to_instagram'
+2024-10-25 14:08:12,666 - MainScript - INFO - Retrying in 30 seconds...
+2024-10-25 14:08:42,667 - MainScript - INFO - Attempting to initialize bot (attempt 2/3)
+2024-10-25 14:08:42,667 - InstagramFoodBot - ERROR - Failed to initialize bot: 'InstagramFoodBot' object has no attribute 'connect_to_instagram'
+2024-10-25 14:08:42,668 - MainScript - ERROR - Failed to initialize bot: 'InstagramFoodBot' object has no attribute 'connect_to_instagram'
+2024-10-25 14:08:42,668 - MainScript - INFO - Retrying in 30 seconds...
+2024-10-25 14:09:12,669 - MainScript - INFO - Attempting to initialize bot (attempt 3/3)
+2024-10-25 14:09:12,670 - InstagramFoodBot - ERROR - Failed to initialize bot: 'InstagramFoodBot' object has no attribute 'connect_to_instagram'
+2024-10-25 14:09:12,670 - MainScript - ERROR - Failed to initialize bot: 'InstagramFoodBot' object has no attribute 'connect_to_instagram'
+2024-10-25 14:09:12,670 - MainScript - ERROR - Max retries reached. Exiting.
+2024-10-25 14:09:12,670 - MainScript - ERROR - Critical error: 'InstagramFoodBot' object has no attribute 'connect_to_instagram'
+2024-10-25 14:10:45,487 - MainScript - INFO - Attempting to initialize bot (attempt 1/3)
+2024-10-25 14:10:45,757 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:10:48,980 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: checkpoint_challenge_required
+2024-10-25 14:10:53,982 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:10:55,686 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: checkpoint_challenge_required
+2024-10-25 14:11:00,688 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:11:02,392 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:11:02,392 - InstagramFoodBot - ERROR - Failed to initialize bot: checkpoint_challenge_required
+2024-10-25 14:11:02,393 - MainScript - ERROR - Failed to initialize bot: checkpoint_challenge_required
+2024-10-25 14:11:02,393 - MainScript - INFO - Retrying in 30 seconds...
+2024-10-25 14:11:32,394 - MainScript - INFO - Attempting to initialize bot (attempt 2/3)
+2024-10-25 14:11:32,683 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:11:34,532 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: checkpoint_challenge_required
+2024-10-25 14:11:39,533 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:11:41,369 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: checkpoint_challenge_required
+2024-10-25 14:11:46,370 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:11:48,176 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:11:48,176 - InstagramFoodBot - ERROR - Failed to initialize bot: checkpoint_challenge_required
+2024-10-25 14:11:48,177 - MainScript - ERROR - Failed to initialize bot: checkpoint_challenge_required
+2024-10-25 14:11:48,177 - MainScript - INFO - Retrying in 30 seconds...
+2024-10-25 14:12:18,178 - MainScript - INFO - Attempting to initialize bot (attempt 3/3)
+2024-10-25 14:12:18,865 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:12:45,182 - MainScript - INFO - Attempting to initialize bot (attempt 1/3)
+2024-10-25 14:12:45,499 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:12:47,273 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: checkpoint_challenge_required
+2024-10-25 14:12:52,275 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:12:53,994 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: checkpoint_challenge_required
+2024-10-25 14:12:58,996 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:13:00,787 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:13:00,788 - InstagramFoodBot - ERROR - Failed to initialize bot: checkpoint_challenge_required
+2024-10-25 14:13:00,788 - MainScript - ERROR - Failed to initialize bot: checkpoint_challenge_required
+2024-10-25 14:13:00,788 - MainScript - INFO - Retrying in 30 seconds...
+2024-10-25 14:13:30,789 - MainScript - INFO - Attempting to initialize bot (attempt 2/3)
+2024-10-25 14:13:31,078 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:13:33,471 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: checkpoint_challenge_required
+2024-10-25 14:13:38,472 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:13:40,249 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: checkpoint_challenge_required
+2024-10-25 14:13:45,250 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:13:47,027 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:13:47,027 - InstagramFoodBot - ERROR - Failed to initialize bot: checkpoint_challenge_required
+2024-10-25 14:13:47,028 - MainScript - ERROR - Failed to initialize bot: checkpoint_challenge_required
+2024-10-25 14:13:47,028 - MainScript - INFO - Retrying in 30 seconds...
+2024-10-25 14:14:17,028 - MainScript - INFO - Attempting to initialize bot (attempt 3/3)
+2024-10-25 14:14:17,333 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:14:19,127 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: checkpoint_challenge_required
+2024-10-25 14:14:24,128 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:14:25,611 - InstagramFoodBot - ERROR - Instagram login failed: bad_password
+2024-10-25 14:14:25,611 - InstagramFoodBot - ERROR - Failed to initialize bot: bad_password
+2024-10-25 14:14:25,611 - MainScript - ERROR - Failed to initialize bot: bad_password
+2024-10-25 14:14:25,611 - MainScript - ERROR - Max retries reached. Exiting.
+2024-10-25 14:14:25,612 - MainScript - ERROR - Critical error: bad_password
+2024-10-25 14:16:17,127 - MainScript - INFO - Attempting to initialize bot (attempt 1/3)
+2024-10-25 14:16:17,492 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:16:20,640 - instagram_private_api.errors - WARNING - Error parsing error response: Expecting value: line 1 column 1 (char 0)
+2024-10-25 14:16:20,640 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: Method Not Allowed
+2024-10-25 14:16:25,641 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:16:28,080 - instagram_private_api.errors - WARNING - Error parsing error response: Expecting value: line 1 column 1 (char 0)
+2024-10-25 14:16:28,080 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: Method Not Allowed
+2024-10-25 14:16:33,081 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:16:36,780 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:16:36,780 - InstagramFoodBot - ERROR - Failed to initialize bot: checkpoint_challenge_required
+2024-10-25 14:16:36,780 - MainScript - ERROR - Failed to initialize bot: checkpoint_challenge_required
+2024-10-25 14:16:36,781 - MainScript - INFO - Retrying in 30 seconds...
+2024-10-25 14:17:06,782 - MainScript - INFO - Attempting to initialize bot (attempt 2/3)
+2024-10-25 14:17:07,118 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:17:09,910 - instagram_private_api.errors - WARNING - Error parsing error response: Expecting value: line 1 column 1 (char 0)
+2024-10-25 14:17:09,910 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: Method Not Allowed
+2024-10-25 14:17:14,911 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:17:17,462 - instagram_private_api.errors - WARNING - Error parsing error response: Expecting value: line 1 column 1 (char 0)
+2024-10-25 14:17:17,462 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: Method Not Allowed
+2024-10-25 14:17:22,463 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:17:24,947 - instagram_private_api.errors - WARNING - Error parsing error response: Expecting value: line 1 column 1 (char 0)
+2024-10-25 14:17:24,947 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:17:24,948 - InstagramFoodBot - ERROR - Failed to initialize bot: Method Not Allowed
+2024-10-25 14:17:24,948 - MainScript - ERROR - Failed to initialize bot: Method Not Allowed
+2024-10-25 14:17:24,948 - MainScript - INFO - Retrying in 30 seconds...
+2024-10-25 14:18:29,881 - MainScript - INFO - Attempting to initialize bot (attempt 1/3)
+2024-10-25 14:18:30,189 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:18:30,212 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: login_required
+2024-10-25 14:18:35,214 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:18:35,235 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: login_required
+2024-10-25 14:18:40,236 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:18:40,258 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:18:40,259 - InstagramFoodBot - ERROR - Failed to initialize bot: login_required
+2024-10-25 14:18:40,259 - MainScript - ERROR - Failed to initialize bot: login_required
+2024-10-25 14:18:40,259 - MainScript - INFO - Retrying in 30 seconds...
+2024-10-25 14:19:10,260 - MainScript - INFO - Attempting to initialize bot (attempt 2/3)
+2024-10-25 14:19:10,572 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:19:10,593 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: login_required
+2024-10-25 14:19:15,594 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:19:15,618 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: login_required
+2024-10-25 14:19:20,619 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:19:20,640 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:19:20,640 - InstagramFoodBot - ERROR - Failed to initialize bot: login_required
+2024-10-25 14:19:20,640 - MainScript - ERROR - Failed to initialize bot: login_required
+2024-10-25 14:19:20,641 - MainScript - INFO - Retrying in 30 seconds...
+2024-10-25 14:19:50,641 - MainScript - INFO - Attempting to initialize bot (attempt 3/3)
+2024-10-25 14:19:50,968 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:19:50,989 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: login_required
+2024-10-25 14:19:55,991 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:19:56,015 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: login_required
+2024-10-25 14:20:01,016 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:20:01,035 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:20:01,035 - InstagramFoodBot - ERROR - Failed to initialize bot: login_required
+2024-10-25 14:20:01,035 - MainScript - ERROR - Failed to initialize bot: login_required
+2024-10-25 14:20:01,035 - MainScript - ERROR - Max retries reached. Exiting.
+2024-10-25 14:20:01,036 - MainScript - ERROR - Critical error: login_required
+2024-10-25 14:24:46,504 - MainScript - INFO - Attempting to initialize bot (attempt 1/3)
+2024-10-25 14:24:46,813 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:24:46,833 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: login_required
+2024-10-25 14:24:51,835 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:24:51,855 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: login_required
+2024-10-25 14:24:56,855 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:24:56,877 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:24:56,877 - InstagramFoodBot - ERROR - Failed to initialize bot: login_required
+2024-10-25 14:24:56,879 - MainScript - ERROR - Failed to initialize bot: login_required
+2024-10-25 14:24:56,879 - MainScript - INFO - Retrying in 30 seconds...
+2024-10-25 14:25:26,880 - MainScript - INFO - Attempting to initialize bot (attempt 2/3)
+2024-10-25 14:25:27,407 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:25:27,429 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: login_required
+2024-10-25 14:25:32,431 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:25:32,461 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: login_required
+2024-10-25 14:25:37,462 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:25:37,484 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:25:37,485 - InstagramFoodBot - ERROR - Failed to initialize bot: login_required
+2024-10-25 14:25:37,485 - MainScript - ERROR - Failed to initialize bot: login_required
+2024-10-25 14:25:37,485 - MainScript - INFO - Retrying in 30 seconds...
+2024-10-25 14:25:58,791 - MainScript - INFO - Attempting to initialize bot (attempt 1/3)
+2024-10-25 14:25:59,083 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:25:59,106 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: login_required
+2024-10-25 14:26:04,107 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:26:04,127 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: login_required
+2024-10-25 14:26:09,128 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:26:09,158 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:26:09,158 - InstagramFoodBot - ERROR - Failed to initialize bot: login_required
+2024-10-25 14:26:09,158 - MainScript - ERROR - Failed to initialize bot: login_required
+2024-10-25 14:26:09,159 - MainScript - INFO - Retrying in 30 seconds...
+2024-10-25 14:26:39,159 - MainScript - INFO - Attempting to initialize bot (attempt 2/3)
+2024-10-25 14:26:39,392 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:26:39,413 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: login_required
+2024-10-25 14:26:44,414 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:26:44,436 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: login_required
+2024-10-25 14:26:49,436 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:26:49,457 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:26:49,458 - InstagramFoodBot - ERROR - Failed to initialize bot: login_required
+2024-10-25 14:26:49,458 - MainScript - ERROR - Failed to initialize bot: login_required
+2024-10-25 14:26:49,458 - MainScript - INFO - Retrying in 30 seconds...
+2024-10-25 14:27:19,459 - MainScript - INFO - Attempting to initialize bot (attempt 3/3)
+2024-10-25 14:27:19,724 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:27:19,747 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: login_required
+2024-10-25 14:27:24,748 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:27:24,778 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: login_required
+2024-10-25 14:27:29,779 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:27:29,800 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:27:29,800 - InstagramFoodBot - ERROR - Failed to initialize bot: login_required
+2024-10-25 14:27:29,801 - MainScript - ERROR - Failed to initialize bot: login_required
+2024-10-25 14:27:29,801 - MainScript - ERROR - Max retries reached. Exiting.
+2024-10-25 14:27:29,801 - MainScript - ERROR - Critical error: login_required
+2024-10-25 14:45:15,884 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 1/3)
+2024-10-25 14:45:18,881 - instagram_private_api.errors - WARNING - Error parsing error response: Expecting value: line 1 column 1 (char 0)
+2024-10-25 14:45:18,881 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: Method Not Allowed
+2024-10-25 14:45:23,882 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 2/3)
+2024-10-25 14:45:26,941 - instagram_private_api.errors - WARNING - Error parsing error response: Expecting value: line 1 column 1 (char 0)
+2024-10-25 14:45:26,941 - InstagramFoodBot - WARNING - Instagram connection failed, retrying in 5 seconds: Method Not Allowed
+2024-10-25 14:45:31,942 - InstagramFoodBot - INFO - Attempting to connect to Instagram (attempt 3/3)
+2024-10-25 14:45:35,002 - instagram_private_api.errors - WARNING - Error parsing error response: Expecting value: line 1 column 1 (char 0)
+2024-10-25 14:45:35,002 - InstagramFoodBot - ERROR - Max retries reached for Instagram connection
+2024-10-25 14:45:35,003 - InstagramFoodBot - ERROR - Failed to initialize bot: Method Not Allowed
